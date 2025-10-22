@@ -4,5 +4,4 @@ matplotlib
 streamlit
 statsmodels
 scikit-learn
-pmdarima
 seaborn
