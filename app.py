@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-# Import modules
+# Import modules that are being used 
 import sales_forecaster
 import inventory_reordering
 import retail_price_suggester
